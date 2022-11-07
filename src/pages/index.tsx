@@ -1,9 +1,9 @@
 import React from 'react';
 
-import Contact from '../components/Contact';
+
 import Analytics from '../components/Analytics';
 import Canvas from '../components/Canvas';
-import Features from '../components/Features';
+import Contact from '../components/Contact';
 import Header from '../components/Header';
 import LazyShow from '../components/LazyShow';
 import MainHero from '../components/MainHero';
