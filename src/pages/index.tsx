@@ -1,6 +1,5 @@
 import React from 'react';
 
-
 import Analytics from '../components/Analytics';
 import Canvas from '../components/Canvas';
 import Contact from '../components/Contact';
@@ -33,7 +32,6 @@ const App = () => {
       </LazyShow>
       <LazyShow>
         <>
-          
           <Contact />
         </>
       </LazyShow>

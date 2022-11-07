@@ -3,7 +3,7 @@
   "extends": ["airbnb-base", "plugin:prettier/recommended"],
   "rules": {
     "prettier/prettier": [
-      "warning",
+      "warn",
       {
         "singleQuote": true,
         "endOfLine": "auto"
