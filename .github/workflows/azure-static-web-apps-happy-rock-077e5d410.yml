@@ -19,5 +19,4 @@ jobs:
             repo_token: ${{ secrets.GITHUB_TOKEN }}
             action: "upload"
             app_location: "/"
-            app_build_command: "yarn run build-prod"
             output_location: "out"
