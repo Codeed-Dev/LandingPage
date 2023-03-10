@@ -21,3 +21,4 @@ jobs:
             app_location: "/"
             app_build_command: "npm run build"
             output_location: "out"
+            skip_api_build: true
